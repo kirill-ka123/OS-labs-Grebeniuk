@@ -122,3 +122,4 @@ A-09,TutayevAA,3
 A-09,TutayevAA,3
 A-09,TutayevAA,3
 A-09,TutayevAA,5
+Общее количество идеальных попыток: 0
